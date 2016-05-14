@@ -1,0 +1,28 @@
+{
+  "name": "hindu-mythological-names",
+  "version": "1.0.0",
+  "description": "Get  random hindu mythological names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shsethi/hindu-mythological-names.git"
+  },
+  "keywords": [
+    "hindu",
+    "mythological",
+    "random",
+    "names"
+  ],
+  "author": "Shubham Sethi <shubhamsethi786@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shsethi/hindu-mythological-names/issues"
+  },
+  "homepage": "https://github.com/shsethi/hindu-mythological-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
